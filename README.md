@@ -1,11 +1,10 @@
-# Hi 👋 My name is [Your Name]
+# Hi 👋 My name is Ekaksh
 ### AI/ML Engineer | Innovator in Applied AI
 
 I am a versatile AI/ML engineer passionate about leveraging artificial intelligence to create impactful, application-driven solutions. With expertise in Python, SQL, TensorFlow, PyTorch, and other advanced tools, I bring a diverse skill set to tackle real-world problems across domains like NLP, Deep Learning, GANs, and Reinforcement Learning.
 
-🌍 **Based in:** [Your City, Country]  
-💼 **Portfolio:** [Your Portfolio or GitHub Page]  
-📫 **Reach me at:** [Your Email Address]  
+🌍 **Based in:** Delhi, India  
+📫 **Reach me at:** ekakshhupadhyay@gmail.com
 🤝 **Collaboration:** Open to working on diverse and innovative projects  
 ⚡ **Fun fact:** I’m always learning and exploring how AI can make life smarter!  
 
@@ -24,7 +23,7 @@ I am a versatile AI/ML engineer passionate about leveraging artificial intellige
 ---
 
 ## **Socials**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]((https://github.com/Ekakshh))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaksh-upadhyay/))
+
 
