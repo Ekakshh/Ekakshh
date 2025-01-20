@@ -5,7 +5,8 @@ I am a versatile AI/ML engineer passionate about leveraging artificial intellige
 
 🌍 **Based in:** Delhi, India  
 📫 **Reach me at:** ekakshhupadhyay@gmail.com
-🤝 **Collaboration:** Open to working on diverse and innovative projects  
+
+🤝 **Collaboration:** Open to working on diverse and innovative projects. 
 ⚡ **Fun fact:** I’m always learning and exploring how AI can make life smarter!  
 
 ---
@@ -24,6 +25,6 @@ I am a versatile AI/ML engineer passionate about leveraging artificial intellige
 
 ## **Socials**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]((https://github.com/Ekakshh))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaksh-upadhyay/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaksh-upadhyay/)
 
 
