@@ -4,9 +4,11 @@
 I am a versatile AI/ML engineer passionate about leveraging artificial intelligence to create impactful, application-driven solutions. With expertise in Python, SQL, TensorFlow, PyTorch, and other advanced tools, I bring a diverse skill set to tackle real-world problems across domains like NLP, Deep Learning, GANs, and Reinforcement Learning.
 
 🌍 **Based in:** Delhi, India  
+
 📫 **Reach me at:** ekakshhupadhyay@gmail.com
 
-🤝 **Collaboration:** Open to working on diverse and innovative projects. 
+🤝 **Collaboration:** Open to working on diverse and innovative projects.
+
 ⚡ **Fun fact:** I’m always learning and exploring how AI can make life smarter!  
 
 ---
